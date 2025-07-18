@@ -12,11 +12,24 @@ Streamline documentation and internationalization.
 
 Prompts are designed to be language and framework agnostic, making them adaptable to any codebase.
 
+## Features
+- Modular prompts for:
+  - Autocompleting agents
+  - Code refactoring both
+  - Documentation generators
+- IDE-specific guidance
+- Inspired by real-world AI integrations
+
 ## Repository Structure
+
 **/prompts**: Individual Markdown files for each category (e.g., `security.md`, `code-quality.md`).
+
 **/examples**: Sample code snippets and configurations for prompt implementations (e.g., secure logging, OpenAPI schemas).
+
 **CONTRIBUTING.md**: Guidelines for contributing new prompts or improvements.
+
 **CHANGELOG.md**: Version history of the library.
+
 **LICENSE**: MIT License for open usage.
 
 ## Categories and Prompts
