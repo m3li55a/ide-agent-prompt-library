@@ -10,7 +10,7 @@ Standardize UI/UX and ensure accessibility.
 Optimize CI/CD pipelines, APIs, databases, and observability.
 Streamline documentation and internationalization.
 
-Prompts are designed to be language- and framework-agnostic, making them adaptable to any codebase.
+Prompts are designed to be language and framework agnostic, making them adaptable to any codebase.
 
 ## Repository Structure
 **/prompts**: Individual Markdown files for each category (e.g., `security.md`, `code-quality.md`).
