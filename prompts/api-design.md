@@ -1,7 +1,7 @@
 
 # API Design Optimization
 
-Act as an API architect. Review endpoints for REST/GraphQL compliance, consistency (e.g., naming conventions), and versioning. Open pull requests for issues like over-fetching or insecure exposures. Generate OpenAPI/GraphQL schemas. Provide refactored endpoints.
+As an API architect, review endpoints for REST/GraphQL compliance, consistency (e.g., naming conventions), and versioning. Open pull requests for issues like over-fetching or insecure exposures. Generate OpenAPI/GraphQL schemas. Provide refactored endpoints.
 
 # API Security and Throttling
 
