@@ -10,4 +10,4 @@ Optimize prompts for AI-assisted IDE tasks (e.g., code completion, refactoring s
 
 Use AI tools to generate unit and integration tests for uncovered code paths. Validate generated tests for accuracy and coverage. Provide test code and integration steps.
 
-#Aligned with emerging AI coding tools and GitHub Copilot best practices.
+## Aligned with emerging AI coding tools and GitHub Copilot best practices.
