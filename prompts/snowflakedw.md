@@ -50,23 +50,23 @@ Include configuration checks or documentation references to confirm.
 
 ## Complete prompt list below, when directing the agent, best practice is not to chain your prompts in one attempt, take a step-by-step approach which allows you to continue to fine-tune your input to accomplish the output desired.
 
-1. As a senior GRC specialist, identify and classify PII data stored in Snowflake (e.g., name, email, IP address, identifiers). Specifically, answer the following:
+As a senior GRC specialist, identify and classify PII data stored in Snowflake (e.g., name, email, IP address, identifiers). Specifically, answer the following:
 
-# Assess PII anonymization or pseudonymization strategies:
+## Assess PII anonymization or pseudonymization strategies:
 
 Are masking policies, external tokenization, or hashing techniques used?
 
 Are Dynamic Data Masking and Row Access Policies in place?
 
-2. # Review consent management:
+## Review consent management:
 
 Is there metadata tracking of consent (e.g., in a user_consent table)?
 
 Are queries or processes gated based on user consent?
 
-# Action: Provide SQL queries or metadata checks to validate these practices.
+## Action: Provide SQL queries or metadata checks to validate these practices.
 
-3. # Encryption Validation
+# Encryption Validation
 
 Confirm data-at-rest encryption:
 
@@ -78,9 +78,9 @@ Confirm data-in-transit encryption:
 
 Validate that TLS 1.2 or higher is enforced for client connections and integrations.
 
-# Action: Provide SQL/config checks to confirm these settings.
+## Action: Provide SQL/config checks to confirm these settings.
 
-4. Compliance Checklist & Evaluation
+Compliance Checklist & Evaluation
 
 ## Generate a Snowflake-specific GDPR checklist covering:
 
@@ -96,7 +96,7 @@ Encryption at rest/in transit
 
 Logging & audit trail (QUERY_HISTORY, ACCESS_HISTORY)
 
-# Action: For each item, mark Pass or Fail, and explain why.
+## Action: For each item, mark Pass or Fail, and explain why.
 
 5. Remediation Recommendations
 For each “Fail”, provide:
