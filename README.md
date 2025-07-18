@@ -20,7 +20,7 @@ Prompts are designed to be language- and framework-agnostic, making them adaptab
 **LICENSE**: MIT License for open usage.
 
 ## Categories and Prompts
-The library is organized into 13 categories with 47 prompts, each aligned with industry best practices:
+The library is organized into categories addressing security, Devops, observability, UX, technical writing and compliance.  The IDE prompts cite specific frameworks and industry best practices, and more will be added in the future to address vendor-specific services. 
 
 **[Security and Vulnerability Management](/prompts/security.md)** (8 prompts)  
    Covers OWASP-compliant audits, secrets management, and secure coding practices.
