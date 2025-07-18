@@ -77,7 +77,7 @@ The library is organized into 13 categories with 47 prompts, each aligned with i
 
 
 
-Jot something down
+
 
 
 
