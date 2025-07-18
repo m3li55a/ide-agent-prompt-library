@@ -3,12 +3,12 @@
 Welcome to the **Enhanced IDE Agent Prompt Library**, a comprehensive collection of actionable, neutral prompts designed to optimize codebases through IDE agents or orchestration tools. These prompts cover security, code quality, UI/UX, architecture, testing, performance, documentation, and more, aligned with industry standards such as OWASP Top Ten 2021, WCAG 2.2, DORA metrics, and Clean Code principles. 
 
 ## Purpose
-This library provides developers, DevOps engineers, and AI-assisted coding tools with structured prompts to:
-Identify and remediate security vulnerabilities.
-Improve code quality, maintainability, and performance.
-Standardize UI/UX and ensure accessibility.
-Optimize CI/CD pipelines, APIs, databases, and observability.
-Streamline documentation and internationalization.
+This library provides developers, DevSecOps engineers, and AI-assisted coding tools with structured prompts to:
+- Identify and remediate security vulnerabilities.
+- Improve code quality, maintainability, and performance.
+- Standardize UI/UX and ensure accessibility.
+- Optimize CI/CD pipelines, APIs, databases, and observability.
+- Streamline documentation and internationalization.
 
 Prompts are designed to be language and framework agnostic, making them adaptable to any codebase.
 
