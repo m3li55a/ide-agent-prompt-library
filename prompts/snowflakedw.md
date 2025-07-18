@@ -66,7 +66,7 @@ Are queries or processes gated based on user consent?
 
 ## Action: Provide SQL queries or metadata checks to validate these practices.
 
-# Encryption Validation
+## Encryption Validation
 
 Confirm data-at-rest encryption:
 
@@ -98,7 +98,7 @@ Logging & audit trail (QUERY_HISTORY, ACCESS_HISTORY)
 
 ## Action: For each item, mark Pass or Fail, and explain why.
 
-5. Remediation Recommendations
+Remediation Recommendations
 For each “Fail”, provide:
 
 A concise description of the issue.
