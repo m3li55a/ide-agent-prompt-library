@@ -33,6 +33,7 @@ Prompts are designed to be language and framework agnostic, making them adaptabl
 **LICENSE**: MIT License for open usage.
 
 ## Categories and Prompts
+
 The library is organized into categories addressing security, Devops, observability, UX, technical writing and compliance.  The IDE prompts cite specific frameworks and industry best practices, and more will be added in the future to address vendor-specific services. 
 
 **[Security and Vulnerability Management](/prompts/security.md)** (8 prompts)  
