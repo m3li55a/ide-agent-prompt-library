@@ -17,7 +17,7 @@ Implement integrity checks (e.g., checksums, validation) and backup strategies f
 
 ## Tasks
 
-# Data Handling Review
+## Data Handling Review
 
 Assess how personal data (PII) is collected, stored, and processed.
 
@@ -25,13 +25,13 @@ Evaluate PII anonymization or pseudonymization techniques in use.
 
 Review how user consent is collected, recorded, and managed (opt-in/opt-out).
 
-# Encryption Validation
+## Encryption Validation
 
 Verify encryption standards for data at rest (e.g., AES-256 or equivalent).
 
 Verify encryption for data in transit (e.g., TLS 1.2 or higher).
 
-# Compliance Checklist & Evaluation
+## Compliance Checklist & Evaluation
 
 Generate a GDPR compliance checklist relevant to the above items.
 
@@ -39,7 +39,7 @@ Evaluate the current system/processes against this checklist.
 
 For each item, indicate Pass or Fail.
 
-#Remediation Plan
+## Remediation Plan
 
 For each failed item, provide:
 
